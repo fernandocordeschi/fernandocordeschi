@@ -1,16 +1,29 @@
-## Hi there 👋
+# Fernando Cordeschi
 
-<!--
-**fernandocordeschi/fernandocordeschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 TUDAI student – UNICEN  
+💻 Junior Full Stack Developer  
+🛠 Interested in IT Support and Software Development  
 
-Here are some ideas to get you started:
+## Technologies
+- Java
+- JavaScript
+- Angular
+- PHP
+- HTML
+- CSS
+- Git / GitHub
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Software Development best practices
+- Backend development
+- Clean Code
+
+## Projects
+- Ecommerce web application
+- CRUD systems
+- Web applications with Angular
+
+## Contact
+LinkedIn: www.linkedin.com/in/fernando-martín-cordeschi-5b1b24308
+Email: fernandocordeschi@hotmail.com
