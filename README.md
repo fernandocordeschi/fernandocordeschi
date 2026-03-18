@@ -3,27 +3,59 @@
 💻 Junior Software Developer | IT Support
 Angular | Java | SQL | REST APIs
 
+⭐ Passionate about technology, problem solving and continuous learning. ⭐
+
+## Status
+
+Open to work as:
+- IT Support Technician
+- Junior Developer
+- Help Desk
+
+Location: Argentina
+Remote or onsite.
+
 🎓 TUDAI student at UNICEN.
 🛠 Focused on backend development, databases and technical support.
 Currently looking for my first IT opportunity.
 
- TUDAI student – UNICEN  
- Junior Full Stack Developer  
- Interested in IT Support and Software Development  
+## Technical Skills
 
-## Technologies
+### Programming
 - Java
 - JavaScript
-- Angular
 - PHP
+
+### Frontend
+- Angular
 - HTML
 - CSS
-- Git / GitHub
-- REST APIs
-- SQL & NoSQL
+
+### Databases
 - MySQL
 - MariaDB
-- Database desing
+- SQL
+- NoSQL
+
+### Tools
+- Git
+- GitHub
+- REST APIs
+
+## IT Support Skills
+- Windows OS administration
+- Basic TCP/IP networking
+- Hardware troubleshooting
+- Software installation & configuration
+- End-user technical support
+
+## Soft Skills
+
+- Problem solving
+- Teamwork
+- Communication
+- Adaptability
+- Continuous learning
 
 ## Currently learning
 - Software Development best practices
@@ -32,9 +64,9 @@ Currently looking for my first IT opportunity.
 
 ## Projects
 - Ecommerce web application
-- CRUD systems
-- Web applications with Angular
+- CRUD database systems with REST APIs
+- Single Page Applications (SPA) with Angular
 
 ## Contact
-LinkedIn: www.linkedin.com/in/fernando-martín-cordeschi-5b1b24308
+LinkedIn: https://www.linkedin.com/in/fernando-martín-cordeschi-5b1b24308
 Email: fernandocordeschi@hotmail.com
